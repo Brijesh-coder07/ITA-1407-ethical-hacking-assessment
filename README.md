@@ -1,1 +1,0 @@
-# ITA-1407-ethical-hacking-assessment
